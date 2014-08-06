@@ -1,5 +1,5 @@
 Authors ordered by first contribution.
-
+steve
 John Resig <jeresig@gmail.com>
 Gilles van den Hoven <gilles0181@gmail.com>
 Michael Geary <mike@geary.com>
